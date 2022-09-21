@@ -1,5 +1,7 @@
 {
     "picgo.picBed.current": "github",
     "picgo.picBed.github.branch": "main",
-    "picgo.picBed.github.path": "images/"
+    "picgo.picBed.github.path": "images/",
+    "picgo.picBed.github.token": "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",
+    "picgo.picBed.github.repo": "guzhaojun/readMarkDown"
 }
