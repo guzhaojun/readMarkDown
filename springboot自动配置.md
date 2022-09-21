@@ -12,6 +12,5 @@
 
 
 SpringBoot自动装配流程图
-![图片](/Users/gzj/Documents/readMarkDown/自动装配图.png)
+![图片](https://raw.githubusercontent.com/guzhaojun/readMarkDown/main/images/UsersgzjDocumentsreadMarkDown%E8%87%AA%E5%8A%A8%E8%A3%85%E9%85%8D%E5%9B%BE.png.png)
 
-![图片](http://baidu.com/hellotest.png)
